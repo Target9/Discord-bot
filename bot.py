@@ -365,4 +365,4 @@ async def on_command_error(ctx, error):
     else:
         await ctx.send(f"An unexpected error occurred: {error}")
 
-bot.run("MTE1MDM2NzI3NTUxNDMzOTM0OA.Gon8-u.SL_NMNHQxyhRstoipx4kvQSBruG6cXS3uyyLrY")
+bot.run("***************************") #Your discord token here
